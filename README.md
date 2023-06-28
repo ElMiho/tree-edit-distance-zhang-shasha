@@ -1,1 +1,2 @@
-# tree-edit-distance-zhang-shasha
+# Tree Edit Distance implementation based on Zhang-Shasha
+The goal of this was to implement the tree edit distance described in Zhang-Shasha written as close to the describition of the algorithm as possible.
